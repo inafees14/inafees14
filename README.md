@@ -11,6 +11,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <span><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) </span> </p>
+<p align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![MS Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=data-science&logoColor=white)</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inafees14&show_icons=true&locale=en&layout=compact" alt="inafees14" /></p>
