@@ -1,18 +1,62 @@
-<h1 align="center">Hi 👋, I'm Nafees Iqbal</h1>
-<h3 align="center">A Data Science & AI enthusiast ready to dive deep.</h3>
+# Hi there, I'm Mohammed Nafees Iqbal! 👋
 
-<p align="left"> <a href="https://twitter.com/thenafeesiqbal" target="blank"><img src="https://img.shields.io/twitter/follow/thenafeesiqbal?logo=twitter&style=for-the-badge" alt="thenafeesiqbal" /></a> </p>
+I'm a passionate **Data Science** student pursuing my Master's at Aligarh Muslim University, with a strong foundation in Statistics from my Bachelor's degree. I love exploring machine learning, deep learning, and data analytics to solve real-world problems. When I'm not diving into data, you'll find me experimenting with the latest tech trends and sharing insights online.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thenafeesiqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thenafeesiqbal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nafees-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafees-iqbal" height="30" width="40" /></a>
-<a href="https://instagram.com/thenafeesiqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenafeesiqbal" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+## 🔧 Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?logo=microsoft-excel&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) ![MS Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=data-science&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)</p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inafees14&show_icons=true&locale=en&layout=compact" alt="inafees14" /></p>
+## 💡 Skills & Expertise
+- **AI & Machine Learning:** Regression, Classification, Decision Trees, Ensemble Methods  
+- **Deep Learning:** CNNs, RNNs, Transfer Learning, Hyperparameter Tuning  
+- **Statistical Modeling & Analysis:** Hypothesis Testing, Linear Algebra  
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Programming:** Python, R, SQL, HTML/CSS, JavaScript  
+- **Tools & Libraries:** NumPy, Pandas, Scikit-learn, Keras, Flask, Git, Docker
+
+---
+
+## 🚀 Projects
+- **Fruit Image Classification Using Transfer Learning (2025)**  
+  Developed a deep learning system to classify 11 fruit categories from 31K+ images using MobileNetV2. Engineered a dynamic data pipeline with augmentation and optimized preprocessing for both GPU/CPU environments, achieving 92% validation accuracy.
+  
+- **Social Media Usage and Mental Health Analysis (2024)**  
+  Conducted a comprehensive statistical analysis on 348 participants to explore the relationship between screen time, cyberbullying, and mental health outcomes. Designed hypothesis tests and built a regression model in R to predict depression scores, identifying key predictors influencing mental well-being.
+
+---
+
+## 🎓 Education
+- **Masters of Science in Data Science**  
+  Aligarh Muslim University | 2024–2026  
+  *Key Coursework:* Advanced Machine Learning, Big Data Analytics, Natural Language Processing, Statistical Inference, Database Management Systems
+
+- **Bachelor of Science in Statistics**  
+  Aligarh Muslim University | 2021–2024
+
+---
+
+## 📫 Connect With Me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/thenafeesiqbal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/thenafeesiqbal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/nafees-iqbal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/inafees14)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inafees14@gmail.com)
+
+---
+
+Feel free to explore my repositories and reach out if you’d like to collaborate. Let's innovate together! 🚀
