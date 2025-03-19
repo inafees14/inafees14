@@ -33,7 +33,7 @@ I'm a passionate **Data Science** student pursuing my Master's at Aligarh Muslim
 
 ## 🚀 Projects
 - **Fruit Image Classification Using Transfer Learning (2025)**  
-  Developed a deep learning system to classify 11 fruit categories from 31K+ images using MobileNetV2. Engineered a dynamic data pipeline with augmentation and optimized preprocessing for both GPU/CPU environments, achieving 92% validation accuracy.
+  Developed a deep learning system to classify 11 fruit categories from 31K+ images using MobileNetV2. Engineered a dynamic data pipeline with augmentation and optimized preprocessing for both GPU/CPU environments, achieving 92% validation accuracy. https://github.com/inafees14/Fruits_classification
   
 - **Social Media Usage and Mental Health Analysis (2024)**  
   Conducted a comprehensive statistical analysis on 348 participants to explore the relationship between screen time, cyberbullying, and mental health outcomes. Designed hypothesis tests and built a regression model in R to predict depression scores, identifying key predictors influencing mental well-being.
