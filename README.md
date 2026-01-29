@@ -4,7 +4,7 @@ I'm a passionate **Data Science** student pursuing my Master's at Aligarh Muslim
 
 ---
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -31,7 +31,7 @@ I'm a passionate **Data Science** student pursuing my Master's at Aligarh Muslim
 
 ---
 
-## 🚀 Projects
+## Projects
 - **Robust Fruit Image Classification System Using Transfer Learning — (2025)**  
   Built CNN-based image classifiers using Custom CNN, MobileNetV2, and EfficientNet-B0 on 31,000+ images across 11 classes. Achieved up to 94% validation accuracy.
   Performed statistical error analysis using confusion matrices, per-class precision/recall/F1-scores.
@@ -42,7 +42,7 @@ I'm a passionate **Data Science** student pursuing my Master's at Aligarh Muslim
 
 ---
 
-## 🎓 Education
+## Education
 - **Masters of Science in Data Science**  
   Aligarh Muslim University | 2024–2026  
   *Key Coursework:* Advanced Machine Learning, Big Data Analytics, Natural Language Processing, Statistical Inference, Database Management Systems
@@ -52,7 +52,7 @@ I'm a passionate **Data Science** student pursuing my Master's at Aligarh Muslim
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/thenafeesiqbal)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/thenafeesiqbal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/nafees-iqbal)
