@@ -19,7 +19,6 @@ I'm a passionate **Data Science** student pursuing my Master's at Aligarh Muslim
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
----
 
 ## Skills & Expertise
 - **AI & Machine Learning:** Regression, Classification, Decision Trees, Ensemble Methods  
