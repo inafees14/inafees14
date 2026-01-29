@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed Nafees Iqbal! 👋
+# Hi there, I'm Mohammad Nafees Iqbal! 👋
 
 I'm a passionate **Data Science** student pursuing my Master's at Aligarh Muslim University, with a strong foundation in Statistics from my Bachelor's degree. I love exploring machine learning, deep learning, and data analytics to solve real-world problems. When I'm not diving into data, you'll find me experimenting with the latest tech trends and sharing insights online.
 
