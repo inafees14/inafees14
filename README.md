@@ -58,6 +58,4 @@ I'm a passionate **Data Science** student pursuing my Master's at Aligarh Muslim
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/inafees14)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inafees14@gmail.com)
 
----
-
 Feel free to explore my repositories and reach out if you’d like to collaborate. Let's innovate together! 🚀
