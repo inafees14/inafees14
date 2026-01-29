@@ -21,19 +21,21 @@ I'm a passionate **Data Science** student pursuing my Master's at Aligarh Muslim
 
 ---
 
-## 💡 Skills & Expertise
+## Skills & Expertise
 - **AI & Machine Learning:** Regression, Classification, Decision Trees, Ensemble Methods  
 - **Deep Learning:** CNNs, RNNs, Transfer Learning, Hyperparameter Tuning  
 - **Statistical Modeling & Analysis:** Hypothesis Testing, Linear Algebra  
-- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Data Visualization:** Power BI, Matplotlib, Seaborn  
 - **Programming:** Python, R, SQL, HTML/CSS, JavaScript  
-- **Tools & Libraries:** NumPy, Pandas, Scikit-learn, Keras, Flask, Git, Docker
+- **Tools & Libraries:** NumPy, Pandas, Scikit-learn, Keras, Git, FastAPI
 
 ---
 
 ## 🚀 Projects
-- **Fruit Image Classification Using Transfer Learning (2025)**  
-  Developed a deep learning system to classify 11 fruit categories from 31K+ images using MobileNetV2. Engineered a dynamic data pipeline with augmentation and optimized preprocessing for both GPU/CPU environments, achieving 92% validation accuracy. https://github.com/inafees14/Fruits_classification
+- **Robust Fruit Image Classification System Using Transfer Learning — (2025)**  
+  Built CNN-based image classifiers using Custom CNN, MobileNetV2, and EfficientNet-B0 on 31,000+ images across 11 classes. Achieved up to 94% validation accuracy.
+  Performed statistical error analysis using confusion matrices, per-class precision/recall/F1-scores.
+  Optimized model size and preprocessing for CPU inference using TensorFlow Lite. Deployed a public inference pipeline using FastAPI and cloud hosting.
   
 - **Social Media Usage and Mental Health Analysis (2024)**  
   Conducted a comprehensive statistical analysis on 348 participants to explore the relationship between screen time, cyberbullying, and mental health outcomes. Designed hypothesis tests and built a regression model in R to predict depression scores, identifying key predictors influencing mental well-being.
