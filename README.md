@@ -52,7 +52,8 @@ I'm a passionate **Data Science** student pursuing my Master's at Aligarh Muslim
 ---
 
 ## Connect With Me
-:computer: [![Webpage] (https://inafees14.github.io)]
+
+[![Webpage](https://img.shields.io/badge/Webpage-4285F4?logo=googlechrome&logoColor=white)](https://inafees14.github.io)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/thenafeesiqbal)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/thenafeesiqbal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/nafees-iqbal)
